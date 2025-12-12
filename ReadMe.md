@@ -33,7 +33,7 @@ No external libraries are required beyond what's in the standard Python distribu
 Execute the Python script:
 
 ```bash
-python3 connect4_ai.py
+python3 AiProject.py
 ```
 
 - Click on a column to drop your piece (red).
