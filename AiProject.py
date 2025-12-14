@@ -1,4 +1,5 @@
-# Heuristic evaluation functions for AI (position scoring)
+# Heuristic evaluation functions for AI (position scoring)   
+
 def get_position_score(board_instance, piece):
     board_data = board_instance.board
     score = 0
